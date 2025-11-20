@@ -7,7 +7,7 @@
 ## 🚀 What I'm Up To
 
 ### 🔭 Currently Working On
-- 📝 Planning a personal blog with **Next.js**
+- 📝 Planning a personal blog with **React** and **TypeScript**
 - 🎨 Building small frontend projects to sharpen my skills
 - 💡 Exploring modern web development best practices
 
