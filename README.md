@@ -9,12 +9,10 @@
 ### 🔭 Currently Working On
 - 📝 Planning a personal blog with **React** and **TypeScript**
 - 🎨 Building small frontend projects to sharpen my skills
-- 💡 Exploring modern web development best practices
 
 ### 🌱 Currently Learning
 - 🎯 UI frameworks: **Ant Design** & **TailwindCSS**
-- 🌐 HTTP client: **Axios**
-- 📚 Deepening my **React** & **TypeScript** knowledge
+- 🌐 HTTP client: **Ajax**
 
 ---
 
